@@ -585,10 +585,6 @@ http://localhost:11434
 
 ![YOLO11 OBB Detection Result](docs/images/yolo-detection.jpg)
 
-## Precision-Recall Curve
-
-![Precision-Recall Curve](docs/images/precision-recall.png)
-
 ## Rectified License Plate Dataset
 
 ![Rectified License Plate Dataset](docs/images/yolo-crop.png)
